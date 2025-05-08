@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": "1",
+    "type": "flight",
+    "title": "Flight to Paris",
+    "startTime": "2024-09-10T09:00:00Z",
+    "endTime": "2024-09-10T11:00:00Z",
+    "location": "Charles de Gaulle Airport (CDG)",
+    "description": "AirFrance AF102, Economy. Arrive early for check-in.",
+    "details": "Seat 23A. Remember to pack light. Check baggage allowance. Flight confirmation: XYZ123.",
+    "image": "https://picsum.photos/seed/parisflight/600/400",
+    "mapPlaceholder": "https://picsum.photos/seed/cdgmap/600/300"
+  },
+  {
+    "id": "2",
+    "type": "hotel",
+    "title": "Hotel Le Grand Paris",
+    "startTime": "2024-09-10T14:00:00Z",
+    "location": "123 Rue de Rivoli, Paris",
+    "description": "Check-in to your charming Parisian hotel.",
+    "details": "Reservation under 'WanderTrack User'. Concierge available for tour bookings. Free WiFi. Breakfast included from 7 AM to 10 AM.",
+    "image": "https://picsum.photos/seed/parishotel/600/400",
+    "mapPlaceholder": "https://picsum.photos/seed/hotelmap/600/300"
+  },
+  {
+    "id": "3",
+    "type": "landmark",
+    "title": "Eiffel Tower Visit",
+    "startTime": "2024-09-11T10:00:00Z",
+    "endTime": "2024-09-11T13:00:00Z",
+    "location": "Eiffel Tower, Champ de Mars, Paris",
+    "description": "Ascend the iconic Eiffel Tower for breathtaking city views.",
+    "details": "Pre-booked tickets for Summit access. Entry time: 10:00 AM. Allow 2-3 hours. Security check expected.",
+    "image": "https://picsum.photos/seed/eiffel/600/400",
+    "mapPlaceholder": "https://picsum.photos/seed/eiffelmap/600/300"
+  },
+  {
+    "id": "4",
+    "type": "restaurant",
+    "title": "Dinner at Le Petit Bistro",
+    "startTime": "2024-09-11T19:30:00Z",
+    "location": "45 Rue Montorgueil, Paris",
+    "description": "Authentic French cuisine in a cozy atmosphere.",
+    "details": "Reservation for 2 at 7:30 PM. Try the Coq au Vin. Dress code: Smart Casual.",
+    "image": "https://picsum.photos/seed/parisbistro/600/400",
+    "mapPlaceholder": "https://picsum.photos/seed/bistromap/600/300"
+  },
+  {
+    "id": "5",
+    "type": "activity",
+    "title": "Louvre Museum Tour",
+    "startTime": "2024-09-12T14:00:00Z",
+    "endTime": "2024-09-12T17:00:00Z",
+    "location": "Louvre Museum, Paris",
+    "description": "Explore masterpieces including the Mona Lisa.",
+    "details": "Guided tour starts at 2:00 PM from the Pyramid entrance. Audio guide available in multiple languages.",
+    "image": "https://picsum.photos/seed/louvre/600/400",
+    "mapPlaceholder": "https://picsum.photos/seed/louvremap/600/300"
+  },
+  {
+    "id": "6",
+    "type": "travel",
+    "title": "Train to Lyon",
+    "startTime": "2024-09-13T11:00:00Z",
+    "endTime": "2024-09-13T13:00:00Z",
+    "location": "Gare de Lyon (Paris) to Lyon Part-Dieu",
+    "description": "High-speed TGV train journey to Lyon.",
+    "details": "Carriage 7, Seat 42. Refreshments available on board. Arrive at station 30 mins prior to departure.",
+    "image": "https://picsum.photos/seed/paristrain/600/400",
+    "mapPlaceholder": "https://picsum.photos/seed/stationmap/600/300"
+  }
+]
